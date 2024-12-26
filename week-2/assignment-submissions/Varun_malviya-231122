@@ -1,1 +1,16 @@
+## PART 1
+## Challenge 1--
+1.Uploaded the Image to Aperi'Solve:
 
+2.I used Aperi'Solve, an online tool that analyzes images for hidden data or metadata.
+Found exiftool in the Output:
+
+3.During the analysis, Aperi'Solve listed various tools, including exiftool, which is used to extract metadata from files.
+Checked Metadata Using exiftool:
+
+4.The metadata of the image contained detailed information, and in the comments section, I discovered a hint or the flag.
+5.The flag for this challenge is of the form: CTFlearn{I_Like_Math_x_y} where x and y are the solution to these equations: 3x + 5y = 31 7x + 9y = 59
+6. Ans are 2,5 resp
+
+## Challenge 2--
+1-
